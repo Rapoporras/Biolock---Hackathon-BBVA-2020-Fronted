@@ -5,8 +5,17 @@ Es la Aplicación para el desafio de biometrica del Hackaton 2020 BBVA
 
 ## Descarga App
 
-Link APK: 
+Link APK: [title](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/Biolock.apk)
 Nota: Al ser una app no firmada por falta de tiempo a veces no solicita el permiso de camara que debera ser concedido por el usuario de manera manual en ajustes de Android
+
+## Capturas de Pantalla 
+
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/1.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/2.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/3.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/4.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/5.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/6.jpeg)
 
 ## Nuestra Idea
 
