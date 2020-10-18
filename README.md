@@ -21,6 +21,21 @@ Hemos utilizado para la parte backend un sistema deployado en AWS.
 Link APK: [Biolock.apk](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/Biolock.apk)
 > Nota: Al ser una app no firmada por falta de tiempo a veces no solicita el permiso de camara que debera ser concedido por el usuario de manera manual en ajustes de Android
 
+## Mockup 
+Estos son los diseños de la app realizados en Adobe Xd por Carolina Martínez Pulido
+-[Mockup Identificación](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/mockup/Identificaci%C3%B3n%201.1.xd)  
+-[Mockup Configuración](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/mockup/Configuraci%C3%B3n.xd)  
+
+
+## Back end - JavaScrip
+
+Back end Realizado en javacrip por [Carlota Lopez](https://github.com/carlota-lopez)  
+[Backend JavaScript](https://github.com/carlota-lopez/FaceRecognitionTest/tree/master)  
+
+## Back end - Python
+
+Back end Realizado en Python por [Juan Aparicio](https://github.com/apariciojuan)  
+[Backend JavaScript](https://github.com/apariciojuan/Hackathonbbva)  
 
 
 ## Nuestra Idea
