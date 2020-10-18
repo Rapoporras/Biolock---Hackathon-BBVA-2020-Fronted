@@ -1,12 +1,27 @@
 # Biolock BBVA 2020 - Frontend App
 
-Es la Aplicación para el desafio de biometrica del Hackaton 2020 BBVA
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/icon/Logoapp.png)
+
+Hemos desarrollado la parte frontend como una aplicación móvil que utilizaremos para la identificación del cliente con un tercero. Una vez evaluado los distintos lenguajes hemos decidido utilizar flutter por ser capaz de desarrollar apps de manera nativa tanto en ios como en android, decantándonos por este ultimo para codificar nuestra demo.
+
+Para la parte UX hemos usado Adobe XD para hacer los wireframes y prototipados. El logo con Adobe Illustrator y si da tiempo se harán más materia UI con este programa y after effects. Y para videos Adobe Premiere.
+
+La parte backend cuenta con la siguiente arquitectura:
+
+Hemos utilizado para la parte backend un sistema deployado en AWS.
+
+- Función Lambda ---> con un código programado con node JS (reconocimiento facial con Amazon Rekognition)  
+- S3 ---> Repositorio donde se almacenan las fotos del los clientes a identificar  
+- API gateway --> donde se ha deployado y publicado el endpoint que conectaría el frontend con la parte backend que posteriormente realiza el reconocimiento facial de la imagen enviada junto el id del empleado  
+
 
 
 ## Descarga App
 
-Link APK: 
-Nota: Al ser una app no firmada por falta de tiempo a veces no solicita el permiso de camara que debera ser concedido por el usuario de manera manual en ajustes de Android
+Link APK: [Biolock.apk](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/Biolock.apk)
+> Nota: Al ser una app no firmada por falta de tiempo a veces no solicita el permiso de camara que debera ser concedido por el usuario de manera manual en ajustes de Android
+
+
 
 ## Nuestra Idea
 
@@ -27,3 +42,11 @@ Esto ha complicado el desarrollo de la visualizacion de la camara utilizando la 
 
 La app podria incluir en un futuro mas tipos de indentificación biometrica como reconocimiento de voz y tambien desarrollar al app para IOS que no disponemos actualmente
 
+## Capturas de Pantalla 
+
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/1.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/2.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/3.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/4.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/5.jpeg)
+![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/ScreenShot/6.jpeg)
