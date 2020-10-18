@@ -35,7 +35,7 @@ Back end Realizado en javacrip por [Carlota Lopez](https://github.com/carlota-lo
 ## Back end - Python
 
 Back end Realizado en Python por [Juan Aparicio](https://github.com/apariciojuan)  
-[Backend JavaScript](https://github.com/apariciojuan/Hackathonbbva)  
+[Backend Python](https://github.com/apariciojuan/Hackathonbbva)  
 
 
 ## Nuestra Idea
