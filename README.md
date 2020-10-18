@@ -48,6 +48,8 @@ metodos biometricos de huella dactilar y reconocimento facial.
 
 La app consta de dos partes, uno la configuración y la subida de datos al backend de los datos biometricos y dos la gestion de las solicitudes y la identificacion posterior del cliente
 
+ > La creación del usuario y inicio de sesión se realizara utilizando los datos de la app de BBVA junto con la imagen capturada en el apartado de configuración del app , por falta de tiempo no ha sido posible conectar la parte frontend al backend pero pueden ver una simulacion de como seria la configuración en el APP 
+
 ## En Desarrollo
 
 Estos dias de desarrollo no se ha podido implementar la conexion con el backend que reconoceria los datos y los guardaria, debido a la complejidad de desarrollar al app completa y el poco uso de Flutter ( el lenguaje usado ) que he tenido estos ultimos meses.
