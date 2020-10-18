@@ -22,7 +22,7 @@ Link APK: [Biolock.apk](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2
 > Nota: Al ser una app no firmada por falta de tiempo a veces no solicita el permiso de camara que debera ser concedido por el usuario de manera manual en ajustes de Android
 
 ## Mockup 
-Estos son los diseños de la app realizados en Adobe Xd por Carolina Martínez Pulido
+Estos son los diseños de la app realizados en Adobe Xd por Carolina Martínez Pulido  
 -[Mockup Identificación](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/mockup/Identificaci%C3%B3n%201.1.xd)  
 -[Mockup Configuración](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/mockup/Configuraci%C3%B3n.xd)  
 
