@@ -94,12 +94,7 @@ class _BiolockState extends State<Biolock> {
                   ],
                 ),
               ),
-              onTap: () => {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => Identificacion()),
-                ),
-              },
+              onTap: () => {_goIdentificacion()},
             ),
             InkWell(
               child: Container(
@@ -137,12 +132,7 @@ class _BiolockState extends State<Biolock> {
                   ],
                 ),
               ),
-              onTap: () => {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => Identificacion()),
-                ),
-              },
+              onTap: () => {_goIdentificacion()},
             ),
             InkWell(
               child: Container(

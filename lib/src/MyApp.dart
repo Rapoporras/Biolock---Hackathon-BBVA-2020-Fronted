@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/src/Screens/Config.dart';
-import 'package:flutter_app/src/Screens/home.dart';
-import 'package:flutter_app/src/navbar.dart';
 
-import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_app/src/Screens/home.dart';
 
 class MyApp extends StatelessWidget {
   @override

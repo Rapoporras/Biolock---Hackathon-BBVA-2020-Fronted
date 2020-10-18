@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app/src/Screens/Biolock.dart';
-import 'package:flutter_app/src/Screens/Politicas.dart';
-import 'package:flutter_app/src/Screens/filtros.dart';
-import 'package:flutter_app/src/Screens/huellas.dart';
+import 'package:flutter_app/src/Screens/Filtros.dart';
 import 'package:local_auth/auth_strings.dart';
 
 import 'package:local_auth/local_auth.dart';
@@ -10,9 +8,6 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/basic.dart';
-import 'package:flutter/src/widgets/container.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:video_player/video_player.dart';
 
