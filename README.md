@@ -1,6 +1,16 @@
 # Biolock BBVA 2020 - Frontend App
 
-Es la Aplicación para el desafio de biometrica del Hackaton 2020 BBVA
+Hemos desarrollado la parte frontend como una aplicación móvil que utilizaremos para la identificación del cliente con un tercero. Una vez evaluado los distintos lenguajes hemos decidido utilizar flutter por ser capaz de desarrollar apps de manera nativa tanto en ios como en android, decantándonos por este ultimo para codificar nuestra demo.
+
+Para la parte UX hemos usado Adobe XD para hacer los wireframes y prototipados. El logo con Adobe Illustrator y si da tiempo se harán más materia UI con este programa y after effects. Y para videos Adobe Premiere.
+
+La parte backend cuenta con la siguiente arquitectura:
+
+Hemos utilizado para la parte backend un sistema deployado en AWS.
+
+1- Función Lambda ---> con un código programado con node JS (reconocimiento facial con Amazon Rekognition)
+2- S3 ---> Repositorio donde se almacenan las fotos del los clientes a identificar
+3- API gateway --> donde se ha deployado y publicado el endpoint que conectaría el frontend con la parte backend que posteriormente realiza el reconocimiento facial de la imagen enviada junto el id del empleado
 
 ![alt text](https://github.com/Rapoporras/Biolock---Hackathon-BBVA-2020-Fronted/blob/master/assets/icon/Logoapp.png)
 
