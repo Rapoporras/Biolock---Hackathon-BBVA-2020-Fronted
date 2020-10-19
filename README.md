@@ -61,4 +61,9 @@ La app podria incluir en un futuro mas tipos de indentificación biometrica como
 
 ## Capturas de Pantalla 
 
-<img src="https://user-images.githubusercontent.com/18537419/96421156-b6b6ea80-11f6-11eb-8542-5d247c489390.jpeg" width="15%"></img> <img src="https://user-images.githubusercontent.com/18537419/96421160-b74f8100-11f6-11eb-869d-e1f622f5f10b.jpeg" width="15%"></img> <img src="https://user-images.githubusercontent.com/18537419/96421162-b7e81780-11f6-11eb-988b-b73c4ea167f3.jpeg" width="15%"></img> <img src="https://user-images.githubusercontent.com/18537419/96421164-b880ae00-11f6-11eb-8865-f0af08b435ee.jpeg" width="15%"></img> <img src="https://user-images.githubusercontent.com/18537419/96421165-b880ae00-11f6-11eb-8951-266fb2df7d4e.jpeg" width="15%"></img> <img src="https://user-images.githubusercontent.com/18537419/96421167-b9194480-11f6-11eb-9f27-28f11fe55d99.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421167-b9194480-11f6-11eb-9f27-28f11fe55d99.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421164-b880ae00-11f6-11eb-8865-f0af08b435ee.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421156-b6b6ea80-11f6-11eb-8542-5d247c489390.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421160-b74f8100-11f6-11eb-869d-e1f622f5f10b.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421162-b7e81780-11f6-11eb-988b-b73c4ea167f3.jpeg" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/18537419/96421165-b880ae00-11f6-11eb-8951-266fb2df7d4e.jpeg" width="15%"></img> 
